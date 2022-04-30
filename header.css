@@ -15,7 +15,7 @@ li {
   float: left;
 }
 
-#navbutton {
+.navbutton {
   display: block;
   text-align: center;
   padding: 15px;
@@ -28,7 +28,7 @@ li a:hover {
   background-color: #6a5acd;
 }
 
-#homebutton {
+.homebutton {
   display: block;
   text-align: center;
   padding: 0px;
