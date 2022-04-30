@@ -24,3 +24,19 @@ li a {
 li a:hover {
   background-color: #6a5acd;
 }
+
+h1 {
+  font: sans-serif
+}
+
+h2 {
+  font: sans-serif
+}
+
+p {
+  font: sans-serif
+}
+
+a {
+  font: sans-serif
+}
