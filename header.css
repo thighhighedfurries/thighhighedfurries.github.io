@@ -21,6 +21,7 @@ li a {
   padding: 10px;
   text-decoration: none;
   background-color: #dddddd;
+  font-family: "Lucida Console", Helvetica, Arial;
 }
 
 li a:hover {
@@ -28,17 +29,17 @@ li a:hover {
 }
 
 h1 {
-  font-family: "Lucida Console";
+  font-family: "Lucida Console", Helvetica, Arial;
 }
 
 h2 {
-  font-family: "Lucida Console";
+  font-family: "Lucida Console", Helvetica, Arial;
 }
 
 p {
-  font-family: "Lucida Console";
+  font-family: "Lucida Console", Helvetica, Arial;
 }
 
 a {
-  font-family: "Lucida Console";
+  font-family: "Lucida Console", Helvetica, Arial;
 }
