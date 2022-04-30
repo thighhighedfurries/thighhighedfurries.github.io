@@ -28,18 +28,6 @@ li a:hover {
   background-color: #6a5acd;
 }
 
-li a img {
-  display: block;
-  text-align: center;
-  padding: 5px;
-  text-decoration: none;
-  background-color: #dddddd;
-}
-
-li a img:hover {
-  background-color: #6a5acd;
-}
-
 h1 {
   font-family: "Lucida Console", Helvetica, Arial;
 }
