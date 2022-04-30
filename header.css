@@ -31,7 +31,7 @@ li a:hover {
 #homebutton {
   display: block;
   text-align: center;
-  padding: 2px;
+  padding: 0px;
   text-decoration: none;
   background-color: #dddddd;
 
