@@ -28,6 +28,13 @@ li a:hover {
   background-color: #6a5acd;
 }
 
+#homebutton {
+  display: block;
+  text-align: center;
+  padding: 2px;
+  text-decoration: none;
+  background-color: #dddddd;
+
 h1 {
   font-family: "Lucida Console", Helvetica, Arial;
 }
